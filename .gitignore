@@ -1,4 +1,3 @@
 venv/
-intrusion_detection/model.sav
-intrusion_detection/scaled_input.npy
-intrusion_detection/std_scaler.bin
+intrusion_detection/test_data
+intrusion_detection/train_data
