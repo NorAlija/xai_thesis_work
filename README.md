@@ -6,12 +6,12 @@ This repository contains the code and resources for my thesis project. The proje
 
 ## Table of Contents
 
-1. [Importing Dataset](#importing-dataset)
-2. [Data Preprocessing](#data-preprocessing)
-3. [Feature Selection / Train-Test Split](#feature-selection-train-test-split)
-4. [Training the Model](#training-the-model)
-5. [Saving the Model](#saving-the-model)
-6. [New Prediction](#new-prediction)
+1. Importing Dataset
+2. Data Preprocessing
+3. Feature Selection / Train-Test Split
+4. Training the Model
+5. Saving the Model
+6. New Prediction with LIME
 
 ## Importing Dataset
 
